@@ -27,5 +27,7 @@ ABC Corporation, fundada en 1980 en California, es una consultora tecnológica e
 
 ### Fase 6: Reporte de los Resultados
 
-# Los Datos
+## Estructura de archivos
+
+## Los Datos
 
