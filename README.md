@@ -5,7 +5,12 @@ En un entorno empresarial competitivo, la toma de decisiones fundamentadas es cl
 
 Nuestro objetivo es identificar los factores que influyen en estos aspectos y proporcionar información útil que guíe las decisiones estratégicas de la empresa
 
-Equipo de desarrollo: Maria Diz, Paula Martínez y Andrea Gonzalez.
+**Equipo de desarrollo:**  
+
+Maria Diz Iglesias
+Andrea Gonzalez 
+Paula Martínez Cantero
+
 
 ![imagen_logo](logo.jpeg)
 
