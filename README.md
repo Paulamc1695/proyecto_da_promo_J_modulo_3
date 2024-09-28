@@ -7,9 +7,10 @@ Nuestro objetivo es identificar los factores que influyen en estos aspectos y pr
 
 **Equipo de desarrollo:**  
 
-Maria Diz Iglesias
-Andrea Gonzalez 
+Maria Diz Iglesias  
+Andrea Gonzalez  
 Paula Martínez Cantero
+
 
 
 ![imagen_logo](logo.jpeg)
