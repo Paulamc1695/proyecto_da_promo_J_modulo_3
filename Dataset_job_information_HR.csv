@@ -2,7 +2,7 @@ employee_number,employee_count,job_role,department,job_level,training_times_last
 162.0,1,Research Director,Research & Development,5,5,Yes,40,No,20,15,15,No
 259.0,1,Manager,Research & Development,5,5,Yes,40,No,33,11,9,No
 319.0,1,Manager,Research & Development,5,3,Yes,40,No,22,11,15,No
-1708.0,1,Research Director,Research & Development,4,2,No,40,No,20,5,6,No
+1462.0,1,Research Director,Research & Development,4,2,No,40,No,20,5,6,No
 1900.0,1,Manager,Research & Development,4,3,Yes,40,No,22,4,7,No
 81.0,1,Sales Executive,Sales,3,3,Yes,40,No,21,7,9,No
 387.0,1,Sales Executive,Sales,2,3,No,40,No,20,11,6,No
