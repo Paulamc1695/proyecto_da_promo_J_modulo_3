@@ -1,4 +1,4 @@
-# Proyecto Modulo 3 de Optimización de Talento
+# Proyecto de Optimización de Talento
 
 ### Equipo Insight Seekers S.L
 
@@ -60,9 +60,7 @@ Elaborar un informe detallado con visualizaciones utilizando Python:
 - Generar un reporte completo con análisis descriptivos y gráficos.
 - Mostrar tendencias, áreas de mejora y fortalezas dentro de la empresa.
 
-## 🎤 Presentación final
 
-Cada miembro del equipo participará en la presentación, mostrando los resultados y los aprendizajes obtenidos.
 
 ## 🤝 Contribuciones
 
